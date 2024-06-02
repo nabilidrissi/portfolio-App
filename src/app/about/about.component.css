@@ -1,0 +1,16 @@
+.about-me-hi{
+    color: white;
+    font-size: 70px;
+}
+.about-me-title{
+    color: #ffbd39;
+    font-size: 80px;
+}
+.block-buttons-about{
+    display: flex;
+    gap: 20px;
+    margin-top: 15px
+}
+.block-buttons-about a{
+    border-radius: 15px;
+}

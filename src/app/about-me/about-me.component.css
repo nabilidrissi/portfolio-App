@@ -1,0 +1,39 @@
+.about-me-text{
+    font-size: 50px;
+    font-family: fantasy;
+}
+.info-about-me{
+    margin-top: 20px;
+}
+.info-about-me ul{
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.info-about-me ul li{
+    list-style: none;
+    margin-bottom: 40px;
+    color: ghostwhite;
+    font-size: 19px;
+    display: flex;
+}
+.first-element{
+    font-size: 20px;
+    font-family: fantasy;
+}
+.second-element{
+    padding-left: 20px;
+    font-family: "Poppins", Arial, sans-serif;
+    color: #999999;
+}
+.description-me{
+    width: 80%;
+    margin-left: 10%;
+    font-family: "Poppins", Arial, sans-serif;
+    color: #999999;
+}
+.donwload-cv{
+    border-radius: 15px;
+    margin-bottom: 10px;
+}

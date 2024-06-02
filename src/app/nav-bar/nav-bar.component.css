@@ -1,0 +1,23 @@
+.navbar-elements{
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+}
+.navbar-elements li{
+    padding-left: 50px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+.container-nav{
+    padding: 20px;
+}
+.name-decoration{
+   font-size: 20px;    
+   font-family: fantasy;
+}
+.navbar-elements li:hover{
+    border-bottom: 7px solid rgb(0, 255, 106);
+    border-bottom-left-radius: 124px;
+
+}
