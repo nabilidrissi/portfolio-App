@@ -1,0 +1,36 @@
+.availableTowork{
+    background-image: url('/assets/back-moon.png');
+  background-size: cover; /* Optional: ensures the image covers the entire div */
+  background-repeat: no-repeat; /* Optional: prevents the image from repeating */
+  left: 0; 
+  right: 0;
+  position: absolute;
+  height: 600px;
+}
+.availblecenter{
+  justify-content: center;
+  align-items: center;
+}
+.availblecenter div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+}
+.titleJob{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+.hirmecdi {
+        border-radius: 15px;
+        width: 177px;
+        height: 54px;
+        font-size: 27px;
+        font-family: fantasy;
+        
+}
+.text-buton-hire{
+    margin-top: 8% !important;
+}
